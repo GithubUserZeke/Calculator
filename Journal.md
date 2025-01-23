@@ -13,7 +13,13 @@ Today i learned to use some commands in terminal.
 
 
  CHALLENGE using https://www.markdownguide.org/basic-syntax/
+ 
  1. add a picture in the journal
+
+ ![Glovali!](https://i.ytimg.com/vi/juD7iJ76ODo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDmSzG8Qy4aOiSggghpmhlZVl9mpA "Solar Glovali")
+
  2. write a python program where i need to enter text and it will echo back to  me 2X.  https://www.w3schools.com/python/python_user_input.asp
+
+ 
 
  *what word would you want me to repeat twice then hit enter and the program will print it twice.*  - glovali
