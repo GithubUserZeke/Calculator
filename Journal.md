@@ -22,3 +22,8 @@ Today i learned to use some commands in terminal.
 
 
  *what word would you want me to repeat twice then hit enter and the program will print it twice.*  - glovali
+
+ ## 01/23/2025
+ Today i was able to complete my tasks. adding a picture in my journal and writing a python program that whatever i enter would print back twice. 
+ 
+ Today i was given a task to make a program to guess what number the program generates randomly. a guessing game. When number entered program would tell me if im too high or low and would have to do it in X amount of tries. 
