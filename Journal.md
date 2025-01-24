@@ -20,6 +20,5 @@ Today i learned to use some commands in terminal.
 
  2. write a python program where i need to enter text and it will echo back to  me 2X.  https://www.w3schools.com/python/python_user_input.asp
 
- 
 
  *what word would you want me to repeat twice then hit enter and the program will print it twice.*  - glovali

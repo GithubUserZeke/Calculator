@@ -1,3 +1,4 @@
-print("Hello World"*2)
+print("Hello World")
 
-print("Yo" + "Yo")
+x = input("Enter anything: ")
+print((x + " ") * 2)
