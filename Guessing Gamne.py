@@ -2,12 +2,13 @@
 
 import random
 
+number_to_guess = random.randrange(100)
+
 lower_bound = 1
 print("Enter lower bound 1.")
 upper_bound = 100
 print("Enter Upper bound 100.")
 
-number_to_guess = random.randrange(100)
 
 print("You have 7 chances to guess the number between 1 and 100.")
 
